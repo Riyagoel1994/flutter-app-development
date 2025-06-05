@@ -26,4 +26,4 @@ We are a trusted **Flutter cross-platform app development company** with a prove
 
 ## 📞 Get In Touch
 
-For project inquiries, feel free to [contact us](https://yourfluttercompany.com/contact) or explore our portfolio on o
+For project inquiries, feel free to Contact Us [MetaDesign Solutions](https://metadesignsolutions.com/) or explore our portfolio on o
