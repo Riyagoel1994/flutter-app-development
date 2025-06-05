@@ -6,7 +6,7 @@ Whether you're building your first mobile app or scaling an enterprise solution,
 
 ## 🌐 Visit Our Website
 
-👉 [Flutter app development company]([[https://yourfluttercompany.com]](https://metadesignsolutions.com/technology/flutter-app-development-company/))
+👉 [Flutter app development company](https://metadesignsolutions.com/technology/flutter-app-development-company/)
 
 We specialize in:
 - 🔹 End-to-end Flutter app development services  
